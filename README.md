@@ -54,4 +54,10 @@ Each script reflects real-world SDN controller logic: from ticket creation to fl
 ## ✅ Project Status
 - ✔️ All mock scripts functional and documented  
 - ✔️ Presentation delivered and report submitted  
-- ⚠️ Project uses simulated APIs due to Packet Tracer limitations
+
+⚠️ Project Context & Constraints
+This scripting project was part of a larger, multi-group assignment in DCN420, where different teams were responsible for interconnected components (e.g., firewall configuration, routing setup, SDN scripting). Our team was assigned Part 3: simulating SDN controller tasks using REST APIs.
+
+However, due to a lack of cross-team communication, we were unable to obtain the necessary IP addresses, configurations, or outputs from the other groups. This made it infeasible to fully integrate and test live REST API interactions.
+
+To ensure timely and complete delivery, we implemented mock scripts that simulate the controller's logic and responses using tools like jsonplaceholder.typicode.com. While the project operates in a simulated environment, it accurately reflects how SDN controllers handle tasks such as ticketing, inventory queries, and flow analysis.
