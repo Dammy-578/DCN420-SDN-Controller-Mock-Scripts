@@ -3,7 +3,7 @@ Simulated SDN controller scripting using Python and REST API mockups. Includes t
 # SDN Controller Mock Scripting – DCN420 Term Project (Part 3)
 
 **Course:** DCN420 – Software Defined Networks  
-**Date:** April 2025  
+**Date:** Jan - April 2025  
 **Institution:** Seneca Polytechnic  
 **Team Members:** Dhanak, Ogundipe, Odutayo
 
